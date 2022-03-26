@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\chris\Desktop\Books</_PublishTargetUrl>
+    <History>True|2022-03-24T22:22:52.8508392Z;True|2022-03-24T16:20:18.7860319-06:00;True|2022-03-24T16:13:30.5234778-06:00;True|2022-03-24T14:51:39.6076292-06:00;</History>
+  </PropertyGroup>
+</Project>
